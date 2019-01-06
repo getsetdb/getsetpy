@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='getsetpy',
-    version='1.0',
+    version='1.2',
     url='https://github.com/getsetdb/getsetpy',
     license='MIT',
     author='manan',
