@@ -1,7 +1,7 @@
 # getsetpy
 Python connector for GetSetDB with official support.
 
-Some familiarity with GetSetDB would come a long way in using getsetpy as most of the API calls by the `space.Space` and `database.Database` inter-actor comes directory from it. To learn GetSetDB, refer to [A Tour of GetSetDB]()
+Some familiarity with GetSetDB would come a long way in using getsetpy as most of the API calls by the `space.Space` and `database.Database` inter-actors comes directly from it. To learn GetSetDB, refer to [A Tour of GetSetDB](https://medium.com/@mentix02/a-tour-of-getsetdb-8716c39e354d)
 
 ## Installation
 ```sh
